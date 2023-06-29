@@ -1,4 +1,4 @@
-# AggravationEnvironmentalBiasMitigationProspectiveCrimes
+# AggravationEnvironmentalBiasMitigation
 Version 1.0.0
 
 This Python program file calculates the optimal crime levels and the optimal punishment levels from the simulations and robutsness checks reported in Peinado, F. (2023) "Aggravation, Environmental Bias and Mitigation of Prospective Crimes."
